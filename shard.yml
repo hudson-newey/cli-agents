@@ -1,0 +1,13 @@
+name: cli-agents
+version: 0.1.0
+
+authors:
+  - hudson-newey
+
+targets:
+  app:
+    main: src/app.cr
+
+crystal: '>= 1.20.2'
+
+license: MIT
