@@ -1,5 +1,5 @@
-# Cli Agents
+# CLI Agents
 
-A pure CLI LLM agent harness.
+Very basic CLI interface for LLM agents.
 
-No fancy business.
+No TUI. No UI fancyness. Just a prompt with stdout.
