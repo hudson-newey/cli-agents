@@ -13,4 +13,4 @@ class UI:
             Commands.handle(user_input)
 
             agent.send(user_input)
-            print("\n")
+            print("")
